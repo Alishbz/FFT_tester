@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asos_algorithms", "asos_algorithms\asos_algorithms.vcxproj", "{378067AF-5861-4E01-AE85-3EC9BEE903EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378067AF-5861-4E01-AE85-3EC9BEE903EC}.Debug|x64.ActiveCfg = Debug|x64
+		{378067AF-5861-4E01-AE85-3EC9BEE903EC}.Debug|x64.Build.0 = Debug|x64
+		{378067AF-5861-4E01-AE85-3EC9BEE903EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{378067AF-5861-4E01-AE85-3EC9BEE903EC}.Debug|x86.Build.0 = Debug|Win32
+		{378067AF-5861-4E01-AE85-3EC9BEE903EC}.Release|x64.ActiveCfg = Release|x64
+		{378067AF-5861-4E01-AE85-3EC9BEE903EC}.Release|x64.Build.0 = Release|x64
+		{378067AF-5861-4E01-AE85-3EC9BEE903EC}.Release|x86.ActiveCfg = Release|Win32
+		{378067AF-5861-4E01-AE85-3EC9BEE903EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4E819A5-5C0B-4647-9CA2-0A9080F268D5}
+	EndGlobalSection
+EndGlobal
