@@ -27,6 +27,8 @@ FFT is a fundamental tool for understanding the frequency characteristics of sig
 
 # Project Compilation result
 
+The test was completed by superimposing random noise on the Fa and La sounds.
+
 ![Run Exe](pictures/c_out.png)
 
 # For visualization I used Chart chart for C# Form Project
